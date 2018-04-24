@@ -1,0 +1,57 @@
+@charset "UTF-8";
+body{
+    background-color: #fdf9f0;
+    margin: 0;
+    background-image: url("../image/background.jpg");
+    background-size: cover;
+}
+header{
+    background-image: url("../image/wave_background.png");
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 60px;
+
+}
+nav{
+    width: 790px;
+    margin: auto;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    list-style-type: none;
+    padding-left: 0;
+}
+h1{
+    text-align: center;
+}
+section{
+    padding: 80px 0;
+}
+h2{
+    color: #fdf9f0;
+    text-align: center;
+    font-size: 36px;
+}
+.self_image{
+    margin:auto;
+    display: block;
+
+}
+.detail{
+    background-color: rgba(253,249,240, 0.8);
+}
+.inside_box{
+    width: 790px;
+    margin: auto;
+    display: flex;
+    
+}
+.inside_box > div{
+    width: 50%;
+}
+.text_center{
+    text-align: center;    
+}
