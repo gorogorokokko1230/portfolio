@@ -2,11 +2,11 @@
 body{
     background-color: #fdf9f0;
     margin: 0;
-    background-image: url("/image/background.jpg");
+    background-image: url("/portfolio/image/background.jpg");
     background-size: cover;
 }
 header{
-    background-image: url("/image/wave_background.png");
+    background-image: url("/portfolio/image/wave_background.png");
     position: fixed;
     top: 0;
     width: 100%;
